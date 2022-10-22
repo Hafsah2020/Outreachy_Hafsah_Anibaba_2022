@@ -1,6 +1,6 @@
 ## Global analysis of forests 
 
-The task is to pick a favourite forest.  
+The task is to pick a favourite forest, make analysis and report my findings which I have done [here](https://nbviewer.org/github/Hafsah2020/Outreachy_Hafsah_Anibaba_2022/blob/main/global_forest_analysis.ipynb#AgroEcological-zones-of-forest)
 
 ### Administrative boundaries
 
@@ -67,9 +67,3 @@ I plotted to see the kind of soils in tropical dry forsts
 ![Soil resources](Images/soil.png)
 
 The soil resources commonly found in tropical dry forests are Vertisol,  Lixisol
-
-
-
-
-
-
