@@ -51,12 +51,12 @@ ___
 
 <b>Climate change can be a natural process where temperature, rainfall, wind and other elements vary over decades or more</b>. In millions of years, our world has been warmer and colder than it is now. But today we are experiencing rapid warming from human activities, primarily due to burning fossil fuels that generate greenhouse gas emissions. Increasing greenhouse gas emissions from human activity act like a blanket wrapped around the earth, trapping the sun’s heat and raising temperatures.<sup>1</sup>
 
-![image on greenhouse effect](images/the-enhanced-greenhouse-effect.gif)
+![image on greenhouse effect](Images/the-enhanced-greenhouse-effect.gif)
 
 
 Climate change is the most significant challenge to achieving sustainable development, and it threatens to drag millions of people into grinding poverty.<sup>4</sup><b>The consequences of climate change now include, among others, intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms and declining biodiversity</b>.<sup>1</sup>
 
-![image on effect and cause of climate change](images/effects_and_cause.png)
+![image on effect and cause of climate change](Images/effects_and_cause.png)
 
 [back to table of contents](#Table-of-contents)
 ___
@@ -65,7 +65,7 @@ ___
 
 Any small increase in global average temperature over an extended period can trigger a chain reaction of climatic change around the world.According to the [Intergovernmental Panel on Climate Change’s (IPCC) Working Group I Sixth Assessment Report](https://www.ipcc.ch/assessment-report/ar6/) (released on 6 August 2021), world average surface temperatures could increase by 1.0°C to 5.7°C by the end of this century. The rate of global mean sea level rise has accelerated and will continue throughout the 21st century, ranging from 0.32m to 1.01m.While a localised temperature change of 2°C or 3°C may not seem serious, it has grave consequences on a global scale because this temperature increase directly impacts the sustainability of water, food supplies, ecosystems, coastal stability and public health.The following diagram summarises the environmental impact created by an increase in the global average annual temperature<sup>2</sup>
 
-![image on global impact of climate change](images/global_impacts.png)
+![image on global impact of climate change](Images/global_impacts.png)
 
 [back to table of contents](#Table-of-contents)
 ___
