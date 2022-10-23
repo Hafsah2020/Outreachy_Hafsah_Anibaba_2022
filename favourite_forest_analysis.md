@@ -44,7 +44,7 @@ There are moist soils towards the south eastern part of the forest, Subhumid soi
 
 ###### Carbon density
 ![climate zones](Images/fav_forest_carbon_density.png)
-Most parts of the forestt has low carbon density except for two part in the central West and centarl East that has high carbon density
+Most parts of the forestt has low carbon density except for two parts in the central West and centarl East that has high carbon density
 
 ###### Dominant land cover and rainfed terrain suitabillity
 ![climate zones](Images/fav_forest_dom_rainfed.png)
@@ -58,7 +58,7 @@ There is no variability in water scarcity of the forest which belongs to the eco
 
 ###### Protected areas
 ![climate zones](Images/fav_forest_rest_prot.png)
-The South-Eastern part of the forest has the most protected areas and mmost protected areas are for agriculture
+The South-Eastern part of the forest has the most protected areas and most protected areas are for agriculture
 
 ###### Rooting conditions
 ![climate zones](Images/fav_forest_rest_prot.png)
